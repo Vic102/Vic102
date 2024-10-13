@@ -15,6 +15,6 @@ Here are some ideas to get you started:
   <source src="GithubIntro.mp4" type="video/mp4">
 </video>
 -->
-<div align:"center">
+<h1 align:"center">
     <img src="Hi_there!!.gif" width="auto" height="auto" />
-</div>
+</h1>
