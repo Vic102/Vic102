@@ -15,6 +15,6 @@ Here are some ideas to get you started:
   <source src="GithubIntro.mp4" type="video/mp4">
 </video>
 -->
-<div style="display: flex; align-items: center; justify-content: center">
+<div align:"center">
     <img src="Hi_there!!.gif" width="auto" height="auto" />
 </div>
