@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![](Hi_there!!.gif)
+<img src="Hi_there!!.gif" width="100%" height="auto" />
 -->
 
-<img src="Hi_there!!.gif" width="100%" height="auto" />
+<video width="100%" height="auto" autoplay muted loop>
+<source src="GitHubIntro.mov" type="video/mov">
+</video>
