@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <video width="100%" height="auto" autoplay muted loop>
-<source src="GitHubIntro.mov" type="video/mov">
+<source src="GithubIntro.mp4" type="video/mp4">
 </video>
