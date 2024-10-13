@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <source src="GithubIntro.mp4" type="video/mp4">
 </video>
 -->
-<picture align="center">
+<div align="center">
   <source src="Hi_there!!.gif" width="auto" height="auto" media="(prefers-color-scheme: light)"/>
   <source src="Hi_there!!_Dark.gif" width="auto" height="auto" media="(prefers-color-scheme: dark)"/>
-</picture>
+</div>
