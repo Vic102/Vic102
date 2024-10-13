@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 <img src="Hi_there!!.gif" width="100%" height="auto" />
 -->
 
-<video width="100%" height="auto" autoplay muted loop>
+<video width="100%" height="auto" muted="" loop="" autoplay="">
 <source src="GithubIntro.mp4" type="video/mp4">
 </video>
