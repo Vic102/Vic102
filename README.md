@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="Hi_there!!.gif" width="100%" height="auto" />
 <video width="100%" height="auto" muted="" loop="" autoplay="">
   <source src="GithubIntro.mp4" type="video/mp4">
 </video>
 -->
-<iframe src="https://giphy.com/embed/AdEUJJjetvJM4thkH3" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AdEUJJjetvJM4thkH3">via GIPHY</a></p>
+<img src="Hi_there!!.gif" width="auto" height="auto" />
