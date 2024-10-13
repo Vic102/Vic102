@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 </video>
 -->
 <div align="center">
-  <img src="Hi_there!!.gif" width="auto" height="auto" media="(prefers-color-scheme: light)"/>
-  <img src="Hi_there!!_Dark.gif" width="auto" height="auto" media="(prefers-color-scheme: dark)"/>
+  <source media="(prefers-color-scheme: light)" srcset="Hi_there!!.gif" width="auto" height="auto" />
+  <source media="(prefers-color-scheme: dark)" srcset="Hi_there!!_Dark.gif" width="auto" height="auto" />
 </div>
