@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <div align='center'>
   <h1>
-    Proyects
+    Web Proyects
   </h1>
+  <p>Well, at the moment only one 🙃</p>
   <div>
     <a href='https://marvel-page-beta.vercel.app/'>Marvel Page</a>
   </div>  
