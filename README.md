@@ -27,5 +27,12 @@ Here are some ideas to get you started:
   <p>Well, at the moment only one 🙃</p>
   <div>
     <a href='https://marvel-page-beta.vercel.app/'>Marvel Page</a>
+    <p>Developed using:</p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,next" />
+      </a>
+    </p>
+    
   </div>  
 </div>
