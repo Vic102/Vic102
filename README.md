@@ -20,9 +20,11 @@ Here are some ideas to get you started:
   <img src="Hi_there!!_Dark.gif#gh-dark-mode-only" width="auto" height="auto" />
 </div>
 
-<h1>
-  Proyects
-</h1>
-<div>
-  <a href='https://marvel-page-beta.vercel.app/'>Marvel Page</a>
+<div align='center'>
+  <h1>
+    Proyects
+  </h1>
+  <div>
+    <a href='https://marvel-page-beta.vercel.app/'>Marvel Page</a>
+  </div>  
 </div>
